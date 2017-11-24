@@ -16,6 +16,5 @@ while True:
 	elif status == 'lower':
 		max_ = num
 	else:
-		print 'Got it!'
 		break
 		
